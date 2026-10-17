@@ -16,6 +16,12 @@ Our projects focus on two goals:
 Both projects are works in progress. We aim to build a lasting foundation for
 players, contributors, and community organizers to enjoy the game together.
 
+## Join the Mario Strikers Community Discord
+
+The main Mario Strikers community Discord server is the central hub for players, hosting active competitive tournaments, matchmaking, and league play across the series. It unites fans, competitive competitors, and content creators from around the world to participate in organized events.
+
+You can join the community and participate in tournaments through the [Mario Strikers Discord Server](https://discord.gg/de2YaWg).
+
 Our name is a grateful homage to **Next Level Games**, the developers of the
 original games in the Mario Strikers series. We are an independent fan community,
 not affiliated with or endorsed by Next Level Games or Nintendo.
